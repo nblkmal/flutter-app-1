@@ -25,4 +25,18 @@
 	- create project
 	- run project demo
 	- use Material App form Google Material
-
+5. Scaffold & AppBar widget
+	- Scaffold (home)
+		- AppBar
+		- body
+6. Add property, colors & fonts
+	- backgroundColor
+	- style
+	- custom font > create new folder 'fonts'
+	- add .ttf font file into 'fonts'
+	- edit pubspec.yaml file to update fonts
+7. Stateless widget & hot reload
+	- stateless = cannot change over time
+	- stateful = can change over time
+	- import all widget tree into one stateless widget to use it over time
+8. 
